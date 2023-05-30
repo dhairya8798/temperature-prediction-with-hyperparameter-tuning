@@ -1,1 +1,1 @@
-## End to End Machine Learning Project for Seed classification
+## End to End Machine Learning Project for temperature prediction
